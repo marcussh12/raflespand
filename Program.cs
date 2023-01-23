@@ -17,6 +17,9 @@
             raflebæger.Løft();
             Console.WriteLine(raflebæger.antalTerninger);
 
+
+
+            System.Console.WriteLine("hej jeg hedder kaj");
         }
     }
 }
